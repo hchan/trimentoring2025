@@ -9,5 +9,4 @@ jobs:
       - name: Say Hello
         run: |
           echo "Hello again world!!"
-          ls -l blah
 
